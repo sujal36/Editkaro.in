@@ -30,7 +30,7 @@ This project includes:
 ---
 
 ## 📂 Project Structure
-📁 Editkaro.in-Portfolio Assignment 3 VOC
+📁 Editkaro.in-Portfolio Website
 ├── index.html # Main HTML page
 ├── styles.css # Stylesheet
 ├── script.js # JavaScript functionality
